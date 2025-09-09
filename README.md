@@ -12,5 +12,5 @@ Snack is Open Source. You can find the code on the [GitHub repo](https://github.
 
 # Links para visualizar proyectos en expo go
 
-[**taller-citas**](https://expo.dev/preview/update?message=Subiendo+taller-citas&updateRuntimeVersion=exposdk%3A53.0.0&createdAt=2025-09-08T23%3A29%3A01.200Z&slug=exp&projectId=4b8597bd-185c-4e9d-9c40-d6e62ddf7867&group=598997b3-63a8-4776-a21b-70a86cc9c3a0)
-
+- [**Registro-citas**](https://expo.dev/preview/update?message=Subiendo+taller-citas&updateRuntimeVersion=exposdk%3A53.0.0&createdAt=2025-09-08T23%3A29%3A01.200Z&slug=exp&projectId=4b8597bd-185c-4e9d-9c40-d6e62ddf7867&group=598997b3-63a8-4776-a21b-70a86cc9c3a0)
+- [**Platillo-tipico**](https://expo.dev/preview/update?message=Subiendo+platillosapp&updateRuntimeVersion=exposdk%3A53.0.0&createdAt=2025-09-09T01%3A01%3A48.684Z&slug=exp&projectId=ee8790ea-11f4-4ea1-9bcd-beb0b47c19a5&group=518ba261-a981-4a16-84b6-150575457dda)
