@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "taller-citas",
+    "slug": "taller-citas",
+    "owner": "mh220744",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/images/icon.png",
+    "scheme": "tallercitas",
+    "userInterfaceStyle": "automatic",
+    "ios": { "supportsTablet": true },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "platforms": ["android", "ios"],
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "4b8597bd-185c-4e9d-9c40-d6e62ddf7867"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4b8597bd-185c-4e9d-9c40-d6e62ddf7867"
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    }
+  }
+}
